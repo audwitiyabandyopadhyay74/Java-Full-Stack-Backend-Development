@@ -19,7 +19,7 @@ To get started with the Java Full Stack Backend Development repository, follow t
 1. Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/your-username/Java-Full-Stack-Backend-Development.git
+git clone https://github.com/audwitiyabandyopadhyay74/Java-Full-Stack-Backend-Development.git
 ```
 
 2. Navigate to the project directory:
