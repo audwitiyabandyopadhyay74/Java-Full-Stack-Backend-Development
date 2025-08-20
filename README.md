@@ -1,8 +1,8 @@
 # Java-Full-Stack-Backend-Development
 
-![GitHub last commit](https://img.shields.io/github/last-commit/{username}/{repo})
-![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo})
-![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo})
+![GitHub last commit](https://img.shields.io/github/last-commit/audwitiyabandyopadhyay74/Java-Full-Stack-Backend-Development)
+![GitHub language count](https://img.shields.io/github/languages/count/audwitiyabandyopadhyay74/Java-Full-Stack-Backend-Development)
+![GitHub top language](https://img.shields.io/github/languages/top/audwitiyabandyopadhyay74/Java-Full-Stack-Backend-Development)
 
 This repository contains a comprehensive guide for learning Full Stack Java Development, including Spring Boot and other essential topics.
 
